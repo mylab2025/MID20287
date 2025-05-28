@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "EVALUVATION BOARD - AT91SAM9260",
+        "PN": "AT91SAM9260-EK ",
+        "MF": "ATMEL CORPORATION"
+      },
+      "MID": "MID20287",
+      "MD": "The AT91SAM9260-EK evaluation kit enables the evaluation of and code development for applications running on an AT91SAM9260 device. || Processor datasheet available in Reference Section || Design_Ref_AT91SAM9260.zip available in AF1 ||Location: TBA",
+      "MT": "Design/Module",
+      "MQNT": 2,
+      "MCost": 1102.29,
+      "MQATG": "#CLASS_2",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20287%2Fmain%2Fdoc6234.pdf",
+      "MAF1": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20287%2Fmain%2FDesign_Ref_AT91SAM9260.zip",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20287%2Fmain%2FEC981463_en_-.1_1.pdf",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20287/main/image (37).png"
+      ]
+    }
+  ]
+}
